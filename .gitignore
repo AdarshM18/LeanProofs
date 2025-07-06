@@ -1,0 +1,9 @@
+/LakeCache/
+/.lake/
+/build/
+/lake-manifest.json
+*.olean
+.lean_cache
+.lean/
+/.vscode/
+/.idea/
